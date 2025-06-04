@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                echo "Github"
+                echo "Github...Is it working?"
             }
         }
 
